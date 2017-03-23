@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //送达方式的发生的发生地方的
+        //送达方式的发生的发生地方的梵蒂冈地方
     }
 }
